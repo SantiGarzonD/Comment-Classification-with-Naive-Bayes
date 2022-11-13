@@ -1,5 +1,5 @@
 # Multinomial Naïve Bayes Classifier - the YouTube Spam Collection Data Set
-## Project Objetive
+## Project Objective
 
 Welcome, here I created a YouTube Spam Comments Classifier with the Naïve Bayes Classifier. I created this project in order to:
 
