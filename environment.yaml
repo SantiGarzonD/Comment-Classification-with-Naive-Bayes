@@ -1,0 +1,10 @@
+name: naive-bayes_classificator
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - seaborn
+  - matplotlib
+  - scikit-learn
+  - pandas
